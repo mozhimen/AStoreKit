@@ -1,0 +1,1 @@
+build打包bundleXXX,生成资产在build/outputs/bundle/xxxRelease下,此外还有谷歌商店需要上传的原生调试符号,在build/intermediates/merged_native_libs/mergeGoogleReleaseNativeLibs/out/lib/下的所有文件夹打包成lib.zip待上传到谷歌商店.
